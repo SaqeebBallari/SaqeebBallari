@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Saqeeb Ballari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Analyst & Scientist from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saqeebballari" alt="saqeebballari" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Data Analyst**
 
-- 👯 I’m looking to collaborate on **Full Stack Projects**
+- 👯 I’m looking to collaborate on **Data Scientist Projects**
 
-- 🤝 I’m looking for help with **MERN Stack**
+- 🤝 I’m looking for help with **Data Analyst**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SaqeebBallari/Projects.git](https://github.com/SaqeebBallari/Projects.git)
+- 👨‍💻 All of my projects are available at [https://github.com/SaqeebBallari/Projects.git]
 
 - 💬 Ask me about **Frontend Development**
 
